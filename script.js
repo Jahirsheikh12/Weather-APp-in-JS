@@ -1,4 +1,4 @@
-let apiKey = 'bd0d8381b87fc7d8018348d4b81c7675'
+let apiKey = ''
 
 
 let searchBtn = document.getElementById('search-btn');
